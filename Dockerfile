@@ -1,4 +1,4 @@
-FROM openjdk:8-alpine
+FROM openjdk:15-alpine
 
 LABEL maintainer="Alex Shamuel<theshamuel@gmail.com>"
 
